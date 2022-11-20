@@ -1,0 +1,6 @@
+﻿  wpa_supplicant_init.cpp
+D:\CodeRepo\Wpa_supplicant_and_Wifi\ConsoleApplication1\wpa_supplicant_init.cpp(4,2): error C2065: “init”: 未声明的标识符
+D:\CodeRepo\Wpa_supplicant_and_Wifi\ConsoleApplication1\wpa_supplicant_init.cpp(4,7): error C2146: 语法错误: 缺少“;”(在标识符“ret”的前面)
+D:\CodeRepo\Wpa_supplicant_and_Wifi\ConsoleApplication1\wpa_supplicant_init.cpp(4,7): error C2065: “ret”: 未声明的标识符
+D:\CodeRepo\Wpa_supplicant_and_Wifi\ConsoleApplication1\wpa_supplicant_init.cpp(4,12): error C2065: “i”: 未声明的标识符
+D:\CodeRepo\Wpa_supplicant_and_Wifi\ConsoleApplication1\wpa_supplicant_init.cpp(5,2): error C2059: 语法错误:“...”
